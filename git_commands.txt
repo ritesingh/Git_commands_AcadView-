@@ -4,6 +4,7 @@ git add- stages a file tells that now i can commit file.
 git commit -m "this is a simple message" - for commiting with a msg.
 git checkout -b new_branch - creates a new branch.
 git checkout id- takes us to that id .
+git remote add identifier repolink- names the link with varname
 git push file branchname- uploads the file in that branch.
 git pull file branchname - downloads file from that branch.
 git merge is a complex procedure, teams need to discuss and merge then.
