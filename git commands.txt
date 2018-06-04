@@ -1,0 +1,11 @@
+git init- initialize a repository
+git status- shows whether the file is staged or unstaged or commited.
+git add- stages a file tells that now i can commit file.
+git commit -m "this is a simple message" - for commiting with a msg.
+git checkout -b new_branch - creates a new branch.
+git checkout id- takes us to that id .
+git push file branchname- uploads the file in that branch.
+git pull file branchname - downloads file from that branch.
+git merge is a complex procedure, teams need to discuss and merge then.
+
+master branch is the main branch 
